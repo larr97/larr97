@@ -23,13 +23,13 @@ Hi, I'm Luis Rodriguez!
 <hr>
 <pre>
 💻 I am a self taught Full Stack Developer
-📚 I have a Bachelors Degree in Telecommunications and Electronics Engineering from the University of Oriente in Cuba.
+📚 I have a Bachelor's Degree in Telecommunications and Electronics Engineering from the University of Oriente in Cuba.
 📝 I have a strong interest in Web Programming and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JavaScript, PHP
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1w2Bq0Y5GjY8sZFM3nlJh7m7iZMyGgado/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/13S47Z9Jns5eWPZME6VhcEcwtbkVL2UK9/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
