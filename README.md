@@ -10,7 +10,7 @@ Hi, I'm Luis Rodriguez!
 		<img src="https://komarev.com/ghpvc/?username=larr97&label=Profile%20views&color=0e75b6&style=flat" alt="larr97" />
 	</a>
 	<a href="https://github.com/larr97">
-		<img src="https://img.shields.io/github/followers/larr97?label=Followers" alt="bouaskaoun" />
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <br/>
