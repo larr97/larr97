@@ -77,16 +77,9 @@ Hi, I'm Luis Rodriguez!
 ### 👋 Contact me
 
 <p>
-    <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-    <a href="https://instagram.com/ale_dmontes?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-    <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
     <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-    <a href="https://wa.me/+5358552332"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
-    <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
     <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="#"><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -94,11 +87,11 @@ Hi, I'm Luis Rodriguez!
 <table>
 <tr>
 <td>
-<a href="https://github.com/alejandro99apple">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandro99apple&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/larr97">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=larr97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </td> 
 <td>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro99apple&layout=compact&langs_count=8&theme=algolia"/></a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larr97&layout=compact&langs_count=8&theme=algolia"/></a>
 </td>
 </tr>
 </table>
