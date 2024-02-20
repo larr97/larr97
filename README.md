@@ -16,7 +16,7 @@ Hi, I'm Luis Rodriguez!
 <br/>
 <p align="center">
 	<a href="https://github.com/larr97">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Programmer;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 
 </p>
