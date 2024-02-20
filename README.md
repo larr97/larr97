@@ -23,6 +23,7 @@ Hi, I'm Luis Rodriguez!
 <hr>
 <pre>
 💻 I am a self taught Full Stack Developer
+📚 I have a College Credit Certificate in Computer Programmer - Mobile Applicatoins from the University of Oriente in Cuba.
 📚 I have a Bachelor's Degree in Telecommunications and Electronics Engineering from the University of Oriente in Cuba.
 📝 I have a strong interest in Web Programming and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
