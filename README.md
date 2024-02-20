@@ -77,9 +77,7 @@ Hi, I'm Luis Rodriguez!
 ### 👋 Contact me
 
 <p>
-    <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-    <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/luisrr97"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
