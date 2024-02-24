@@ -45,6 +45,7 @@ Hi, I'm Luis Rodriguez!
     <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"></a>
    
 <p>
 
