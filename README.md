@@ -40,6 +40,7 @@ Hi, I'm Luis Rodriguez!
 <p>
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white"></a>
     <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Playgrounds" src="https://img.shields.io/badge/Playgrounds-4285F4?logo=xcode&logoColor=white"></a>
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 </p>	
