@@ -35,19 +35,22 @@ Hi, I'm Luis Rodriguez!
     <a href="#"><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"></a>
+</p>	
+<p>
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white"></a>
     <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+</p>	
+<p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"></a>
-   
-<p>
+</p>
 
 ### 🧰 Frameworks and Libraries
 <p>
