@@ -29,27 +29,26 @@ Hi, I'm Luis Rodriguez!
 </pre>
 <hr>
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Skills
 
 <p>
+    <a href="#"><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href=""><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href=""><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
    
 <p>
 
 ### 🧰 Frameworks and Libraries
 <p>
-    <a href="#"><img alt="Aungular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   
+    <a href="#"><img alt="Aungular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
