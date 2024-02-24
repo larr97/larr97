@@ -35,6 +35,7 @@ Hi, I'm Luis Rodriguez!
     <a href="#"><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
